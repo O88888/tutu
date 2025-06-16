@@ -11,7 +11,7 @@ image:
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
 ---
 
-**优秀的软件能有效提高电脑的功能与性能；靠谱、好用、无广告是优秀软件的必备条件；分享一下个人收集的Windows装机必备软件。**
+**优秀的软件能有效提高电脑的功能与性能；一款优秀软件：靠谱、好用、无广告是Ta的必备条件。Windows装机必备软件，个个都堪称神器，能够让你的电脑用起来更加顺手！**
 
 ## 软件列表
 
