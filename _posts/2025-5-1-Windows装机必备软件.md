@@ -24,7 +24,7 @@ image:
 | 火绒安全 |  [点击前往](https://www.huorong.cn)  | 44.2 MB |
 | 希沃零度 |  [点击前往](https://www.ilanzou.com/s/na1Z0iPl)  | 24.7 MB |
 | keepass |  [点击前往](https://keepass.info/)  | 3.2 MB |
-| VMware |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | ??? |
+| VMware |  [点击前往](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)  | ♾️ |
 | WPS专业版 |  [点击前往](https://www.ilanzou.com/s/rqCZZKDN)  | 196.03 MB |
 | AdGuard |  [点击前往](https://adguard.com/zh_cn/welcome.html)  | 262 KB |
 | Everything |  [点击前往](https://www.voidtools.com)  | 2 MB |
