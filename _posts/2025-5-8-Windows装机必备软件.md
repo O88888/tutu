@@ -15,7 +15,7 @@ image:
 
 ## 软件列表
 
-| 文件名| 点击前往 | 大小 |
+| 软件名称 | 点击前往 | 大小 |
 | :---------| :--- | :--- |
 | Bandizip |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 7.5 MB |
 | Chrome |  [点击前往](https://www.google.com/chrome)  | 108.1 MB |
@@ -40,7 +40,6 @@ image:
 最新免费版有广告，[建议使用 6.25 版](https://www.ilanzou.com/s/Qu2ZZoDk)，并关闭更新。
 
 ---
-
 ## Chrome浏览器
 
 [Chrome浏览器](https://www.google.com/chrome) 简洁的设计、快速稳定的性能以及颇具特色的插件极其丰富；极速响应、安全稳定、简洁流畅、纯净无广告极速下载。自带整页翻译等功能，智能双核；体验世界一流的性能，享有更多隐私，同时提高工作效率。(默认搜索引擎谷歌中国无法使用，需要更换默认搜索引擎)
