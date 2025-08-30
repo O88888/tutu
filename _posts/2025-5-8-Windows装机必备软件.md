@@ -18,6 +18,7 @@ image:
 | 软件名称 | 点击前往 | 大小 |
 | :---------| :--- | :--- |
 | Bandizip |  [点击前往](https://www.ilanzou.com/s/Qu2ZZoDk)  | 7.5 MB |
+| GG软件菜单 |  [点击前往](https://www.ggmenu.cn/)  | 4 MB |
 | Chrome |  [点击前往](https://www.google.com/chrome)  | 108.1 MB |
 | Edge |  [点击前往](https://www.microsoft.com/zh-cn/edge/download?form=EDGEAB)  | 1.7 MB |
 | kaspersky(卡巴斯基) |  [点击前往](https://www.kaspersky.com.cn/free-antivirus)  | 4.8 MB |
