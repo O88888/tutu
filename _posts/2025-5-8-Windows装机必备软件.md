@@ -111,4 +111,3 @@ image:
 
 [Process Lasso](https://bitsum.com/?#downloads)  的算法能够动态调整正在运行程序的优先级，有效控制后台进程，从而在 CPU 高负载的情况下保持系统响应速度。有了 ProBalance，单个或多个进程将不再导致系统卡顿。Process Lasso 让您即使在 CPU 高负载的情况下也能与计算机保持交互。
 
----
